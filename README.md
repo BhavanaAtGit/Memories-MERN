@@ -34,5 +34,5 @@ npm start
 ```
 This will start the app on your local machine, with:
 
-Frontend running on http://localhost:3000
-Backend running on http://localhost:5000
+- Frontend running on http://localhost:3000
+- Backend running on http://localhost:5000
